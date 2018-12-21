@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Single menu item
+         Set id, icon and Title for each menu item
+    --> 
+    
+    <item android:id="@+id/menuLoadAll"
+          android:title="@string/menuLoadAll" />
+
+    <item android:id="@+id/menuDeleteAll"
+        android:title="@string/menuDeleteAll" />
+
+</menu>

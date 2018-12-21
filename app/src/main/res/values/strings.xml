@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">CurrencyApp</string>
+    <string name="title_activity_saved_">Saved_Activity</string>
+    <string name="title_activity_convert_">Convert_Activity</string>
+    <string name="title_activity_search_">Search_Activity</string>
+    <string name = "default_font" translatable="false">sans-serif</string>
+
+    <string name="menuClear">Clear Filters</string>
+    <string name="menuLoadAll">DownLoad All Rates</string>
+    <string name="menuDeleteAll">Delete All Rates</string>
+    <string name="menuDisplayAll">Display All Quakes</string>
+    <string name="menuMagFilter">Filter By Magnitude</string>
+    <string name="menuLngFilter">Filter By Longitude</string>
+    <string name="menuLatFilter">Filter By Latitude</string>
+    <string name="menuQuit">Quit</string>
+    <string name="menuMapAll">Map all of them</string>
+    <string name="magFilter">Magnitude Larger Than:</string>
+    <string name="longFilter">Long (+/- 10):</string>
+    <string name="latFilter">Lat (+/- 10):</string>
+
+
+    <string name="mapWelcome">City</string>
+    <string name="instructions">Click on a marker for city details!</string>
+</resources>
